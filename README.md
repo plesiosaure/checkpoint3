@@ -57,7 +57,7 @@ Pour le front tu devras :
 ### Sympa une belle liste, mais l'idée, c'est quand même que Santa la reçoive non ?
   
 * En utilisant NodeMailer, envoie un mail à ton Santa préféré, voilà son adresse: florian.pdf@gmail.com (pourquoi ne pas le spammer pour Noël ? ;) )
-* Si jamais tu places des identifiants, pense bien à les mettre dans un fichier de configuration à part et de rajouter ce fichier au `.gitignore`
+* Si jamais tu places des identifiants, pense bien à les mettre dans un fichier de configuration à part et à rajouter ce fichier au `.gitignore`
 
 
 _Pour ce travail tu as 4h devant toi. Ce checkpoint n'est pas un examen, il va nous permettre de valider tes compétences, essaye donc de le faire au maximum de ton côté. 
